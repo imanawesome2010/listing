@@ -27,4 +27,4 @@ https://rakuten-romance-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-thriller-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Rakuten.VIKI.en" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/38a298ea-4739-4ae9-b656-7f5881195c06-width190-quality100.png" group-logo=""  group-title="",Rakuten Viki ᴴᴰ  
-https://newidco-rakutenviki-2-eu.rakuten.wurl.tv/playlist.m3u
+https://newidco-rakutenviki-2-eu.rakuten.wurl.tv/playlist.m3u8
